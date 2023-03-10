@@ -5,6 +5,7 @@ about
 usage
 render-book
 preview-book
+histology-flowchart
 hello-bookdown
 a-section
 cross
